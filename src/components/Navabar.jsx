@@ -5,7 +5,9 @@ export default function Navabar() {
     <>
       <div className="p-6 bg-blue-200">
         <nav className="flex justify-between">
-       <p className="first-letter:text-[red] ">Rahul Yadav</p> 
+          <p className="first-letter:text-[red] text-[20px] font-bold ">
+            Rahul <span className="text-[red]">Y</span>adav{" "}
+          </p>
 
           <ol className="flex justify-between px-1 text-[red] md:text-[20px]">
             <li className="mx-4">Home </li>
