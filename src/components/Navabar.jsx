@@ -9,7 +9,7 @@ export default function Navabar() {
 
           <ol className="flex justify-between px-1 text-[red] md:text-[20px]">
             <li className="mx-4">Home </li>
-            <li className="mx-4">Abouttt </li>
+            <li className="mx-4">About</li>
             <li className="mx-4">Contact </li>
           </ol>
         </nav>
