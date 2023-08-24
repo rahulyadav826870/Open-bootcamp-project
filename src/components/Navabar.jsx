@@ -10,9 +10,9 @@ export default function Navabar() {
           </p>
 
           <ol className="flex justify-between px-1 text-[red] md:text-[20px]">
-            <li className="mx-4 hover:bg-red-600 hover:text-white cursor-pointer">Home </li>
-            <li className="mx-4 hover:bg-red-600 hover:text-white cursor-pointer">About</li>
-            <li className="mx-4 hover:bg-red-600 hover:text-white rounded cursor-pointer">Contact </li>
+            <li className="mx-4">Home </li>
+            <li className="mx-4">About</li>
+            <li className="mx-4">Contact </li>
           </ol>
         </nav>
       </div>
